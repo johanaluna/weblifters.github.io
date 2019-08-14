@@ -14,7 +14,7 @@ description: Data Scientists
 url: "https://johanaluna.com"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
