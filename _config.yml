@@ -40,7 +40,7 @@ avatar: "/img/avatar-icon.png"
 
 navbar-col: "#025963"
 navbar-text-col: "#faf7f7"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#12a3a3"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#c7c9c9"
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Johana Luna..
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -71,7 +71,7 @@ social-network-links:
   email: "someone@example.com"
   facebook: deanattali
   github: daattali
-  twitter: daattali
+  twitter: j0hanaluna
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
