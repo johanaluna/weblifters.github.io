@@ -69,11 +69,11 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
+#  facebook: deanattali
+  github: johanaluna
   twitter: j0hanaluna
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: johanaluna
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
