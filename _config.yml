@@ -38,8 +38,8 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#025963"
-navbar-text-col: "#faf7f7"
+navbar-col: "#FFFFFF"
+navbar-text-col: "#404040"
 navbar-children-col: "#12a3a3"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
