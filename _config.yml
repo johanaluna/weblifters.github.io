@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Johana Luna
+title: Johana Luna2
 
 # Short description of your site
 description: Data Science
@@ -22,7 +22,7 @@ url: "https://johanaluna.com"
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Medium: "https://medium.com/@johana.luna87/"
+    - Medium: "https://medium.com/@johanaluna/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://deanattali.com"
 
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Johana Luna #Name botto left
+  name: Johana Luna #Name bottom left
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
