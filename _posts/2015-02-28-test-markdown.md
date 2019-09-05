@@ -29,7 +29,7 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Crepe](img/cancer_incidence/1_cncer.png)
+![Crepe](https://github.com/johanaluna/johanaluna.github.io/blob/master/img/cancer_incidence/1_cncer.png)
 
 It can also be centered!
 
