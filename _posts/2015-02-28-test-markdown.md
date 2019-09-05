@@ -12,9 +12,8 @@ A cancer incidence rate is the number of new cancers of a specific site/type occ
 
 [*](https://surveillance.cancer.gov/statistics/types/incidence.html)Incidence rate = (New cancers / Population) × 100,000.
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Between 1999 and 2015, overall **cancer incidence rates have increased 28.3 percent in United Sates.**
 
-**Here is some bold text**
 
 ## Here is a secondary heading
 
@@ -30,7 +29,7 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](img/cancer_incidence/1_cncer.png)
 
 It can also be centered!
 
