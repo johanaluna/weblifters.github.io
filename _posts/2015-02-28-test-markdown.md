@@ -10,7 +10,7 @@ comments: true
 
 A cancer incidence rate is the number of new cancers of a specific site/type occurring in a specified population during a year,usually expressed as the number of cancers per 100,000 population at risk.
 
-[* markdown](https://surveillance.cancer.gov/statistics/types/incidence.html)
+[*](https://surveillance.cancer.gov/statistics/types/incidence.html)Incidence rate = (New cancers / Population) × 100,000.
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
